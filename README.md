@@ -1,4 +1,7 @@
 ### Hi there 👋
+Oomagaaa
+
+Saya mau mencoba-coba fitur github😄
 
 <!--
 **bintang-bintang/bintang-bintang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
